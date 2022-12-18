@@ -1,0 +1,25 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Wonxen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "djs-linereply": "^2.3.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.12.11",
+    "util": "^0.12.3"
+  }
+}

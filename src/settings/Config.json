@@ -1,0 +1,76 @@
+{
+    "System": {
+      "Prefix": ".",
+      "ID": "875063383865589871",
+      "Token": "OTc1MzkxNTc0MjIzNjMwMzk2.Gvnwjx.o-w_uB4Ol4pYONKL9puQuHUO7v85fhvUZ0FjIY",
+      "MongoDb": "mongodb+srv://aptalbotcu1221:aptalbotcu1221@cluster0.a4wsr.mongodb.net/?retryWrites=true&w=majority",
+      "GuildİconUrl": "https://media.discordapp.net/attachments/840011473102962688/990676263578501200/ezgif.com-gif-maker.gif"
+    },
+  
+    "Bot": {
+        "Voice": "995814171377676288",
+        "Text": "Savage Is Never Indestructible.",
+        "Footer": "Savage Is Never Indestructible.",
+        "Color": "RANDOM"
+    },
+
+    "Ayar": {
+      "TagliAlim": true,
+      "MinYas": "17"
+    },
+
+    "Guild": {
+        "Ad": "Savage #1947",
+        "Tag": "Savage",
+        "SecondryTag": "•",
+        "RegisterVoice": "995814161894359111",
+        "RegisterRules": "995814184430346261"
+    },
+    
+    "Channel": {
+        "Chat": "995814225857482852",
+        "Welcome": "995814182089924649"
+    },
+  
+    "Staff": {
+      "List": [
+        "995814090545053739"
+      ]
+    },
+
+    "Permissions": {
+      "Sahip": "852835838168530944",
+      "Register": "995814103350247486",
+      "Kurucu": "995814068701106186 ",
+      "Yönetim": "995814068701106186"
+    },
+
+    "Role": {
+        "Vip": "995814117900300318",
+        "Family": "995814113836015646",
+        "Booster": "875076073346437163",
+        "Register": "995814103350247486",
+        "Jail": "995814134216134658",
+        "Suspect": "995814137856798750",
+        "YasaklıTag": "",
+        "Man": [
+            "995814125076758549",
+            "995814126171476018"
+            
+          ],
+          "Woman": [
+            "995814123289980928",
+            "995814124065935390"
+            
+          ],
+        "Unregistered": "995814127043870730",
+        "TagSorumlusu": "995814097163661312 "
+    },
+  
+    "Others": {
+        "CheckTick": "987649949380513812",
+        "RedTick": "984541837903667290",
+        "Erkek": "984541841464627262",
+        "Kadın": "984541846472634409"
+    }  
+}
